@@ -1,0 +1,16 @@
+C:\Users\brk\Documents\patika\Metot Tanimlama\bin\Debug\net5.0\Metot Tanimlama.exe
+C:\Users\brk\Documents\patika\Metot Tanimlama\bin\Debug\net5.0\Metot Tanimlama.deps.json
+C:\Users\brk\Documents\patika\Metot Tanimlama\bin\Debug\net5.0\Metot Tanimlama.runtimeconfig.json
+C:\Users\brk\Documents\patika\Metot Tanimlama\bin\Debug\net5.0\Metot Tanimlama.runtimeconfig.dev.json
+C:\Users\brk\Documents\patika\Metot Tanimlama\bin\Debug\net5.0\Metot Tanimlama.dll
+C:\Users\brk\Documents\patika\Metot Tanimlama\bin\Debug\net5.0\ref\Metot Tanimlama.dll
+C:\Users\brk\Documents\patika\Metot Tanimlama\bin\Debug\net5.0\Metot Tanimlama.pdb
+C:\Users\brk\Documents\patika\Metot Tanimlama\obj\Debug\net5.0\Metot Tanimlama.csproj.AssemblyReference.cache
+C:\Users\brk\Documents\patika\Metot Tanimlama\obj\Debug\net5.0\Metot Tanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brk\Documents\patika\Metot Tanimlama\obj\Debug\net5.0\Metot Tanimlama.AssemblyInfoInputs.cache
+C:\Users\brk\Documents\patika\Metot Tanimlama\obj\Debug\net5.0\Metot Tanimlama.AssemblyInfo.cs
+C:\Users\brk\Documents\patika\Metot Tanimlama\obj\Debug\net5.0\Metot Tanimlama.csproj.CoreCompileInputs.cache
+C:\Users\brk\Documents\patika\Metot Tanimlama\obj\Debug\net5.0\Metot Tanimlama.dll
+C:\Users\brk\Documents\patika\Metot Tanimlama\obj\Debug\net5.0\ref\Metot Tanimlama.dll
+C:\Users\brk\Documents\patika\Metot Tanimlama\obj\Debug\net5.0\Metot Tanimlama.pdb
+C:\Users\brk\Documents\patika\Metot Tanimlama\obj\Debug\net5.0\Metot Tanimlama.genruntimeconfig.cache
